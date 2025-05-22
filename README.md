@@ -4,6 +4,8 @@ Massage Shop Reservation System, a Node.js application built with Express that e
 
 Frontend repository: [MonkeyMassage-Frontend](https://github.com/WebBacillus/MonkeyMassage-Frontend)
 
+Live Demo: [MonkeyMassage-Vercel](https://swdevprac2-project-kalaeksi-phloeng-rachan.vercel.app/)
+
 ## System Purpose
 
 The Massage Shop Reservation System is designed to provide a secure and efficient platform for:
